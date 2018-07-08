@@ -1,11 +1,11 @@
 <style>
   .penguin {
     
-    /* change code below */
+   
     --penguin-skin: black;
     --penguin-belly: gray;
     --penguin-beak: yellow;
-    /* change code above */
+   
     
     position: relative;
     margin: auto;
